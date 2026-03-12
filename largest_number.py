@@ -1,4 +1,4 @@
-# Find largest of three numbers
+# Find largest number among three numbers 
 
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
