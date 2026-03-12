@@ -1,4 +1,4 @@
-# Check if a string is a palindrome
+# Check whether a string is a palindrome 
 
 text = input("Enter a string: ")
 
